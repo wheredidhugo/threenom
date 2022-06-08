@@ -1,0 +1,17 @@
+{
+  "name": "threenom",
+  "version": "1.0.0",
+  "description": "🌐 Check for free (and paid) domains on Freenom",
+  "author": "Hugo <wheredidhugo@proton.me>",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "freenom",
+    "domains",
+    "free",
+    "axios"
+  ],
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
